@@ -8,7 +8,7 @@ Welcome to my collection of basic Python programs. This repository is aimed at h
 - ✅ Conditional Statements
 - ✅ Loops (for, while)
 - ✅ Functions
-- ⏳ Coming soon: Lists, Dictionaries, File Handling, Object-Oriented Programming, Projects
+- ⏳ Coming soon: Dictionaries, File Handling, Object-Oriented Programming, Projects
 
 ## 🚀 How to Use
 
@@ -32,6 +32,5 @@ python filename.py
 
 ## 📩 Connect with Me
 - 📧 Email : rohannkorake@gmail.com
-- 🌐 Website : https://smartexam.vercel.app
 - 📂 GitHub : https://github.com/Rohan-Korake
 - 🔗 Linkedin : https://www.linkedin.com/in/rohan-korake-720848342
