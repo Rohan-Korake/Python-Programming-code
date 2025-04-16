@@ -8,7 +8,7 @@ Welcome to my collection of basic Python programs. This repository is aimed at h
 - ✅ Conditional Statements
 - ✅ Loops (for, while)
 - ✅ Functions
-- ⏳ Coming soon: Dictionaries, File Handling, Object-Oriented Programming, Projects
+- ⏳ Coming soon: File Handling, Object-Oriented Programming, Projects
 
 ## 🚀 How to Use
 
